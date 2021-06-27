@@ -5,13 +5,13 @@ CHALLENGE 1
 
 Write a function named `addOne` that takes an array of numbers, and returns a new array of the numbers, incremented by 1.
 
-Use `forEach` to loop over the input array and work with each value.  Push the new value into a local array. Return the local array;
+Use `forEach` to loop over the input array and .work with each value.  Push the new value into a local array. Return the local array;
 ------------------------------------------------------------------------------------------------ */
 
 const addOne = (arr) => {
   // Solution code here...
   let newArray=[];
-  arr.array.forEach(element => {
+  arr.forEach(element => {
    let newel=element+1;
    newArray.push(newel);
   });
@@ -33,6 +33,7 @@ const addExclamation = (arr) => {
   arr.forEach(value=>{
     newArray.push(value+'!');
   })
+  return newArray;
 };
 
 /* ------------------------------------------------------------------------------------------------
@@ -125,6 +126,13 @@ This function should use forEach to populate your grocery list based on the stor
 
 const createList = (availableItems) => {
   // Solution code here...
+  let newArray=[];
+  availableItems.forEach(value=>{
+    if(value.available==true){
+      newArray.push(value.name)
+    }
+  })
+  return newArray;
 };
 
 /* ------------------------------------------------------------------------------------------------
@@ -143,13 +151,7 @@ Return the resulting output array.
 
 const fizzbuzz = (arr) => {
   // Solution code here...
-  let newArray=[];
-  availableItems.forEach(value=>{
-    if(value.available==true){
-      newArray.push(value.name)
-    }
-  })
-  return newArray;
+  
 };
 
 /* ------------------------------------------------------------------------------------------------
