@@ -41,7 +41,6 @@ const sortNames = (arr) => {
   // Solution code here...
   return arr.sort();
 };
-
 /* ------------------------------------------------------------------------------------------------
 CHALLENGE 3
 
@@ -57,7 +56,6 @@ const sortNumbers = (arr) => {
   })
   return newarr ;
 };
-
 /* ------------------------------------------------------------------------------------------------
 CHALLENGE 4
 
@@ -65,7 +63,6 @@ Write a function named sortBackwards that takes in an array of numbers and retur
 
 HINT: Do it with a custom sort callback, not with using `.reverse()`. ;)
 ------------------------------------------------------------------------------------------------ */
-
 const sortBackwards = (arr) => {
   // Solution code here...
   let newarr=arr.sort((a,b)=>{
@@ -101,7 +98,6 @@ Here is an example of the input:
   {name: 'Tote bag', price: 15}
 ];
 ------------------------------------------------------------------------------------------------ */
-
 const sortByPrice = (arr) => {
   // Solution code here...
   let newarr=arr.sort((a,b)=>{
