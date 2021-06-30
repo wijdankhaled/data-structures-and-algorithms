@@ -14,23 +14,19 @@ HINT: Look at the tests to see how the callback functions are used.
 ------------------------------------------------------------------------------------------------ */
 
 function upper(str) {
-  
   return str.toUpperCase();
 }
 
 function lower(str) {
- 
   return str.toLowerCase();
 }
 
 const updateAnimal = (arr, callback) => {
   // Solution code here...
- let newarr=[];
-  arr.map(item=>{
-    let val=callback(item);
-    newarr.push(val);
+  let newarr=arr.map(val=>{
+    return callback(val);
   })
-    return newarr;
+  return newarr;
 };
 
 /* ------------------------------------------------------------------------------------------------
@@ -43,8 +39,7 @@ For example: 'Cat' would come before 'apple'
 
 const sortNames = (arr) => {
   // Solution code here...
- return arr.sort();
-
+  return arr.sort();
 };
 
 /* ------------------------------------------------------------------------------------------------
@@ -57,12 +52,10 @@ HINT: Beware... JS default is "Lexical" ordering.
 
 const sortNumbers = (arr) => {
   // Solution code here...
-  let newarr=[];
-  newarr=arr.sort((a,b)=>{
-return a-b;
+  let newarr=arr.sort((a,b)=>{
+    return a-b
   })
-  return newarr;
-
+  return newarr ;
 };
 
 /* ------------------------------------------------------------------------------------------------
@@ -93,9 +86,7 @@ For example, ['Alphabet', 'Zebra', 'alphabet', 'carrot'] is correctly sorted.
 
 const alphabetize = (arr) => {
   // Solution code here...
-  
-    return arr.sort();
-  
+  return arr.sort();
 };
 
 /* ------------------------------------------------------------------------------------------------
@@ -120,7 +111,7 @@ const sortByPrice = (arr) => {
     else if(b.price>a.price){
       return -1;
     }
-    else {
+    else{
       return 0;
     }
   })
