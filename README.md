@@ -24,5 +24,5 @@ To run your tests
 
 | 401| code challenges |
 | ----------- | ----------- |
-| revercs array | [revercearray](./401challennging/README.md) |
+| revercs array | [revercearray](./401challennging/array-reverse/README.md) |
 |array-insert-shift | [array-insert-shift](./401challennging/array-insert-shift/class02.md)|
