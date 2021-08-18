@@ -4,7 +4,7 @@ Proplem Domain
 write a function to add up the sum of each row in a matrix of arbitrary size, and return an array with the appropriate values.
 
 ## Whiteboard Process
-![pord](./cod4.png)
+![pord](./code4.png)
 
 ## Approach & Efficiency
 <!-- What approach did you take? Discuss Why. What is the Big O space/time for this approach? -->
