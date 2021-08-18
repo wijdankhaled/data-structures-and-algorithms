@@ -1,4 +1,4 @@
-# Binary Search of Sorted Array
+# Matrix
 <!-- Description of the challenge -->
 Proplem Domain
 write a function to add up the sum of each row in a matrix of arbitrary size, and return an array with the appropriate values.
