@@ -10,3 +10,5 @@ let sumFun =(arr)=>{
   }
   return newarray
 }
+
+

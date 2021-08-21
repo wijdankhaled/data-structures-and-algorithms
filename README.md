@@ -27,6 +27,7 @@ To run your tests
 | revercs array | [revercearray](./401challennging/array-reverse/README.md) |
 |array-insert-shift | [array-insert-shift](./401challennging/array-insert-shift/class02.md)|
 |BinarySearch| [BinarySearch](./401challennging/BinarySearch/code3.md)|
-|BinarySearch| [BinarySearch](./401challennging/Matrix/code4.md)|
+|matrix| [matrix](./401challennging/Matrix/code4.md)|
+|LL| [LL](./401challennging/linked-list/LL.md)|
 
 
