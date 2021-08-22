@@ -29,5 +29,6 @@ To run your tests
 |BinarySearch| [BinarySearch](./401challennging/BinarySearch/code3.md)|
 |matrix| [matrix](./401challennging/Matrix/code4.md)|
 |LL| [LL](./401challennging/linked-list/LL.md)|
+|linked-list-insertions| [linked-list-insertions](./401challennging/linked-list-insertions/README.md)|
 
 
