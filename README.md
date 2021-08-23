@@ -28,7 +28,7 @@ To run your tests
 |array-insert-shift | [array-insert-shift](./401challennging/array-insert-shift/class02.md)|
 |BinarySearch| [BinarySearch](./401challennging/BinarySearch/code3.md)|
 |matrix| [matrix](./401challennging/Matrix/code4.md)|
-|LL| [LL](./401challennging/linked-list/LL.md)|
+|LL| [LL](./401challennging/linked-list/README.md)|
 |linked-list-insertions| [linked-list-insertions](./401challennging/linked-list-insertions/README.md)|
 |linked-list-kth| [linked-list-kth](./401challennging/linked-list-kth/README.md)|
 
