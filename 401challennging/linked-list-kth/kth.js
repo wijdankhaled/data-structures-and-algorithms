@@ -32,5 +32,10 @@ class Linkedlist {
             return pt.data
         }
     }
+
+
+
+
+    
 }
 module.exports = Linkedlist
