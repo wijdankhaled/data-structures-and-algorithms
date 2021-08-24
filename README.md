@@ -31,6 +31,7 @@ To run your tests
 |LL| [LL](./401challennging/linked-list/README.md)|
 |linked-list-insertions| [linked-list-insertions](./401challennging/linked-list-insertions/README.md)|
 |linked-list-kth| [linked-list-kth](./401challennging/linked-list-kth/README.md)|
+|linked-list-zip| [linked-list-zip](./401challennging/linked-list-zip/README.md)|
 
 
 
