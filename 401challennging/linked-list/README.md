@@ -16,10 +16,21 @@ Upon instantiation, an empty Linked List should be created.
 
 ## Approach & Efficiency
 <!-- What approach did you take? Why? What is the Big O space/time for this approach? -->
-O(n)
+insert to the first using linkedlist take time O(1)
 
-## API
-<!-- Description of each method publicly available to your Linked List -->
+seacrh inside linked list take time O(n)
+
+retrive take time O(n)
+
+Methods in LinkedList Class
+
+insertmethod take one paramter to insert the node in the first linkedlist
+
+includes take one paramter to find that inside linkedlist
+
+tostring with no paramter to rerutn all item in linked list
+
+
 **insert**
 Arguments: value
 Returns: nothing
@@ -34,3 +45,6 @@ Indicates whether that value exists as a Node’s value somewhere within the lis
 Arguments: none
 Returns: a string representing all the values in the Linked List, formatted as:
 "{ a } -> { b } -> { c } -> NULL"
+
+## Whiteboard Process
+![](ll.png)
