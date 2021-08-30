@@ -34,4 +34,4 @@ To run your tests
 |linked-list-zip| [linked-list-zip](./401challennging/linked-list-zip/README.md)|
 |stack-and-queue| [stack-and-queue](./401challennging/stack-and-queue/README.md)|
 |stack-queue-pseudo| [stack-queue-pseudo](./401challennging/stack-queue-pseudo/README.md)|
-
+|stack-queue-animal-shelter| [stack-queue-animal-shelter](./401challennging/stack-queue-animal-shelter/README.md)|
