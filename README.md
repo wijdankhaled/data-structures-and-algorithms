@@ -36,6 +36,7 @@ To run your tests
 |stack-queue-pseudo| [stack-queue-pseudo](./401challennging/stack-queue-pseudo/README.md)|
 |stack-queue-animal-shelter| [stack-queue-animal-shelter](./401challennging/stack-queue-animal-shelter/README.md)|
 |stack-queue-brackets| [stack-queue-brackets](./401challennging/stack-queue-brackets/README.md)|
+|maxStack| [maxStack](./401challennging/maxStack/README.md)|
 
 
 
