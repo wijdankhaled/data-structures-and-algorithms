@@ -40,3 +40,4 @@ To run your tests
 |trees| [trees](./401challennging/trees/README.md)|
 |tree-max| [tree-max](./401challennging/tree-max/README.md)|
 |tree-breadth-first| [tree-breadth-first](./401challennging/tree-breadth-first/README.md)|
+|tree-fizz-buzz| [tree-fizz-buzz](./401challennging/tree-fizz-buzz/README.md)|
