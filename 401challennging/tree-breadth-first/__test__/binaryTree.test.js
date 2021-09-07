@@ -54,7 +54,7 @@ F.left = I;
     let tree = new BinaryTree();
 
     tree.root = A;
-    expect(tree.breadthFirstSearch(one)).toEqual(expectedValue);
+    expect(tree.breadthFirstSearch(A)).toEqual(expectedValue);
   });
 
   it("return if empty", () => {
