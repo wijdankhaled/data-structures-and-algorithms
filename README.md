@@ -41,3 +41,4 @@ To run your tests
 |tree-max| [tree-max](./401challennging/tree-max/README.md)|
 |tree-breadth-first| [tree-breadth-first](./401challennging/tree-breadth-first/README.md)|
 |tree-fizz-buzz| [tree-fizz-buzz](./401challennging/tree-fizz-buzz/README.md)|
+|insertionSort| [insertionSort](./401challennging/insertionSort/BLOG.md)|
