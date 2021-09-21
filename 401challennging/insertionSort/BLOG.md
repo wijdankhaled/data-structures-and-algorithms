@@ -29,6 +29,10 @@ i = 4. 6 will move to position after 5, and elements from 11 to 13 will move one
 
 5, 6, 11, 12, 13
 
+## Visual
+
+![wb](./Insertion-Sort.jpg)
+
 ## Approach & Efficiency
 
 To sort an array of size n in ascending order
