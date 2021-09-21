@@ -24,7 +24,7 @@ ALGORITHM Mergesort(arr)
 
 ```
 
-![1](./mergesort1.png)
+<!-- ![1](./mergesort1.png) -->
 
 **ALGORITHM Merge(left, right, arr)**
 
@@ -50,7 +50,7 @@ ALGORITHM Merge(left, right, arr)
        set remaining entries in arr to remaining values in left
 ```
 
-![1](./mergesort2.png)
+![1](./images.png)  ![1](./HU2tfzo.gif)
 
 ## Approach & Efficiency
 <!-- What approach did you take? Why? What is the Big O space/time for this approach? -->
