@@ -42,3 +42,5 @@ To run your tests
 |tree-breadth-first| [tree-breadth-first](./401challennging/tree-breadth-first/README.md)|
 |tree-fizz-buzz| [tree-fizz-buzz](./401challennging/tree-fizz-buzz/README.md)|
 |insertionSort| [insertionSort](./401challennging/insertionSort/BLOG.md)|
+|MergeSort| [MergeSort](./401challennging/MergeSort/BLOG.md)|
+|QuickSort| [QuickSort](./401challennging/QuickSort/BLOG.md)|
