@@ -44,3 +44,4 @@ To run your tests
 |insertionSort| [insertionSort](./401challennging/insertionSort/BLOG.md)|
 |MergeSort| [MergeSort](./401challennging/MergeSort/BLOG.md)|
 |QuickSort| [QuickSort](./401challennging/QuickSort/BLOG.md)|
+|HashTables| [HashTables](./401challennging/HashTables/README.md)|
