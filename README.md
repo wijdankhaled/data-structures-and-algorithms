@@ -45,3 +45,4 @@ To run your tests
 |MergeSort| [MergeSort](./401challennging/MergeSort/BLOG.md)|
 |QuickSort| [QuickSort](./401challennging/QuickSort/BLOG.md)|
 |HashTables| [HashTables](./401challennging/HashTables/README.md)|
+|hashmap-repeated-word| [hashmap-repeated-word](./401challennging/hashmap-repeated-word/README.md)|
